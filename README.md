@@ -95,7 +95,7 @@ Prerequisites:
 - Docker & Docker Compose
 
 Step 1: Clone the repository
-  git clone https://github.com/[your-username]/ride-matching-system.git
+  git clone https://github.com/arpanraj1509/ride-matching-system.git
   cd ride-matching-system
 
 Step 2: Start infrastructure using Docker
